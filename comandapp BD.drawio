@@ -517,7 +517,7 @@
           <mxGeometry y="110" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ApmutINnozND2xl8l0p_-122" value="Factura" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1610" y="350" width="190" height="380" as="geometry" />
+          <mxGeometry x="-1510" y="350" width="190" height="380" as="geometry" />
         </mxCell>
         <mxCell id="ApmutINnozND2xl8l0p_-123" value="+ numero&lt;div&gt;+ Comanda&lt;/div&gt;&lt;div&gt;+ Fecha&lt;/div&gt;&lt;div&gt;+ Recibido&lt;/div&gt;&lt;div&gt;+ Total&lt;/div&gt;&lt;div&gt;+ Propina&lt;/div&gt;&lt;div&gt;+ Descuento&lt;/div&gt;&lt;div&gt;+ Subtotal&lt;/div&gt;&lt;div&gt;+ MetodoPago&amp;lt;MetodoPago&amp;gt;&lt;/div&gt;&lt;div&gt;+ Usuario&amp;lt;Mesero&amp;gt;&lt;/div&gt;&lt;div&gt;+ Estado&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ApmutINnozND2xl8l0p_-122" vertex="1">
           <mxGeometry y="26" width="190" height="204" as="geometry" />
