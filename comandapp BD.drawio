@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.6">
   <diagram name="Página-1" id="ZLfOOwjbxrJCBjGlawMk">
-    <mxGraphModel dx="2430" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4376" dy="2149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry y="60.000000000000014" width="130" height="150.00000000000003" as="geometry" />
         </mxCell>
         <mxCell id="36kNRSXU-eASTzBY41m4-20" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="810" y="200" width="130" height="140" as="geometry" />
+          <mxGeometry x="850" y="210" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="36kNRSXU-eASTzBY41m4-21" value="Categorias" style="rounded=0;whiteSpace=wrap;html=1;" parent="36kNRSXU-eASTzBY41m4-20" vertex="1">
           <mxGeometry width="130" height="40" as="geometry" />
@@ -295,6 +295,144 @@
         </mxCell>
         <mxCell id="ApmutINnozND2xl8l0p_-12" value="Registra en producto pedido idPedido, id Producto" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-17" target="ApmutINnozND2xl8l0p_-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1310.0900000000001" y="-890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-17" value="Toma de un Pedido" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-1370.0900000000001" y="-1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-21" target="ApmutINnozND2xl8l0p_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-24" value="Ocupada" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApmutINnozND2xl8l0p_-23">
+          <mxGeometry x="-0.4199" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-21" target="ApmutINnozND2xl8l0p_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-31" value="Disponible" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApmutINnozND2xl8l0p_-30">
+          <mxGeometry x="-0.0723" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-21" value="Estado de mesa" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1350.0900000000001" y="-880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-22" target="ApmutINnozND2xl8l0p_-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-22" value="obtenemos el pedido de la mesa" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1140.0900000000001" y="-754" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-29" target="ApmutINnozND2xl8l0p_-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1490.0900000000001" y="-594" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-35" value="Agregar producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApmutINnozND2xl8l0p_-33">
+          <mxGeometry x="-0.1893" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-29" value="Traermos los productos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1550.0900000000001" y="-704" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-34" target="ApmutINnozND2xl8l0p_-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-38" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApmutINnozND2xl8l0p_-37">
+          <mxGeometry x="-0.1653" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-34" target="ApmutINnozND2xl8l0p_-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1620.0900000000001" y="-530" />
+              <mxPoint x="-1620.0900000000001" y="-694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-40" value="Error Stock Insuficiente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApmutINnozND2xl8l0p_-39">
+          <mxGeometry x="-0.1562" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-46" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApmutINnozND2xl8l0p_-39">
+          <mxGeometry x="-0.7267" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-34" value="Stock&amp;gt;Cantidad" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1555.0900000000001" y="-560" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-36" target="ApmutINnozND2xl8l0p_-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-36" value="Agregar al carrito" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1550.0900000000001" y="-430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-41" target="ApmutINnozND2xl8l0p_-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-41" value="Crear Nuevo Pedido" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1550.0900000000001" y="-310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-43" target="ApmutINnozND2xl8l0p_-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-43" value="Traemos los productos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1140.0900000000001" y="-680" width="120" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-45" target="ApmutINnozND2xl8l0p_-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-920.09" y="-560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-45" target="ApmutINnozND2xl8l0p_-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-55" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApmutINnozND2xl8l0p_-54">
+          <mxGeometry x="-0.1132" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-45" value="Producto ya pedido" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1145.0900000000001" y="-590" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-53" target="ApmutINnozND2xl8l0p_-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-53" value="Agregar al carrito" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1140.0900000000001" y="-450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-56" target="ApmutINnozND2xl8l0p_-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1260.0900000000001" y="-290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-56" value="Actualizar Pedido" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1140.0900000000001" y="-320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApmutINnozND2xl8l0p_-61" target="ApmutINnozND2xl8l0p_-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-840.09" y="-430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-61" value="Producto cambio++" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-890.09" y="-575" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ApmutINnozND2xl8l0p_-63" value="Mesa Ocupada" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1300.0900000000001" y="-200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
