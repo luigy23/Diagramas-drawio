@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.0">
   <diagram name="Página-1" id="ZLfOOwjbxrJCBjGlawMk">
-    <mxGraphModel dx="3870" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4565" dy="3516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -732,22 +732,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TeMaIONWurg6iJvDVbmz-1" value="Traer Productos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-540" width="120" height="60" as="geometry" />
+          <mxGeometry x="-70" y="-1950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TeMaIONWurg6iJvDVbmz-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TeMaIONWurg6iJvDVbmz-2" target="TeMaIONWurg6iJvDVbmz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TeMaIONWurg6iJvDVbmz-2" value="Pericion al servidor" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-360" width="120" height="60" as="geometry" />
+          <mxGeometry x="-70" y="-1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TeMaIONWurg6iJvDVbmz-4" value="Almacenamos en Caché y Context" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-360" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="-1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TeMaIONWurg6iJvDVbmz-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TeMaIONWurg6iJvDVbmz-6" target="TeMaIONWurg6iJvDVbmz-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TeMaIONWurg6iJvDVbmz-6" value="Cada pedido&lt;br&gt;Resta Stock" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="-540" width="120" height="60" as="geometry" />
+          <mxGeometry x="-310" y="-1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TeMaIONWurg6iJvDVbmz-9" value="&lt;font style=&quot;font-size: 52px;&quot; face=&quot;Verdana&quot;&gt;Optimizar&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="-2030" width="330" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
