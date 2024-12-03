@@ -778,7 +778,7 @@
         <mxCell id="0zsdMRn9nBKS0Z1Zr-Rf-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="0zsdMRn9nBKS0Z1Zr-Rf-1">
           <mxGeometry y="100" width="160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="0zsdMRn9nBKS0Z1Zr-Rf-4" value="+obtenerEstado();&lt;div&gt;+CambiarEstado()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0zsdMRn9nBKS0Z1Zr-Rf-1">
+        <mxCell id="0zsdMRn9nBKS0Z1Zr-Rf-4" value="CambiarLogo&lt;br&gt;CambiarNombre" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0zsdMRn9nBKS0Z1Zr-Rf-1">
           <mxGeometry y="110" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
