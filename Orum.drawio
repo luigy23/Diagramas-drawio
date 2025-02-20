@@ -423,6 +423,9 @@
         <mxCell id="rzk8L9WGFSJnQojBz0P4-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rzk8L9WGFSJnQojBz0P4-4" target="rzk8L9WGFSJnQojBz0P4-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rzk8L9WGFSJnQojBz0P4-6" target="rzk8L9WGFSJnQojBz0P4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rzk8L9WGFSJnQojBz0P4-4" value="Se le envia un mensaje de whatsapp a un trabajador con la siguiente info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-215" y="-1454" width="194" height="60" as="geometry" />
         </mxCell>
@@ -431,6 +434,9 @@
         </mxCell>
         <mxCell id="rzk8L9WGFSJnQojBz0P4-9" value="Se le envia un mensaje automaticamente al whatsapp del cliente. confirmando su solicitud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-218" y="-1575" width="194" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-10" value="El trabajador a partir de la info proporcionada, busca en la base de datos la mejor opción" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="58" y="-1456" width="194" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
