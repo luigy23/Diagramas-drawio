@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.14">
   <diagram name="Página-1" id="uaKkpWYk70eGb1zbvfOG">
-    <mxGraphModel dx="2672" dy="2494" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2672" dy="2894" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,8 +437,69 @@
         <mxCell id="rzk8L9WGFSJnQojBz0P4-9" value="Se le envia un mensaje automaticamente al whatsapp del cliente. confirmando su solicitud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-218" y="-1575" width="194" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rzk8L9WGFSJnQojBz0P4-10" value="El trabajador a partir de la info proporcionada, busca en la base de datos la mejor opción" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="49" y="-1266" width="194" height="60" as="geometry" />
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rzk8L9WGFSJnQojBz0P4-10" target="rzk8L9WGFSJnQojBz0P4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rzk8L9WGFSJnQojBz0P4-10" target="rzk8L9WGFSJnQojBz0P4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-10" value="El trabajador a partir de la info proporcionada, busca en la base de datos la mejor opción" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="49" y="-1266" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzk8L9WGFSJnQojBz0P4-12" target="rzk8L9WGFSJnQojBz0P4-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="267.929371553309" y="-1542.6588098862592" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-12" value="El trabajador se contacta con el proveedor y cotiza" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="49" y="-1454" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.655;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rzk8L9WGFSJnQojBz0P4-14" target="rzk8L9WGFSJnQojBz0P4-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308.58819221047816" y="-1537.3882266773896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-14" value="El trabajador se contacta con el cliente y le da la información" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="321" y="-1454" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rzk8L9WGFSJnQojBz0P4-18" target="rzk8L9WGFSJnQojBz0P4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-18" value="Se establece una venta con sus precios respectivos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217.99819221047815" y="-1610.9982266773895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rzk8L9WGFSJnQojBz0P4-19" target="rzk8L9WGFSJnQojBz0P4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-19" value="Se genera el link de pago para que el cliente pueda pagar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="217.99819221047812" y="-1790.9982266773895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rzk8L9WGFSJnQojBz0P4-21" target="rzk8L9WGFSJnQojBz0P4-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-21" value="el cliente paga" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="457.9981922104781" y="-1790.9982266773895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-26" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rzk8L9WGFSJnQojBz0P4-23" target="rzk8L9WGFSJnQojBz0P4-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-23" value="Se le confirma al proveedor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="697.9981922104781" y="-1790.9982266773895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rzk8L9WGFSJnQojBz0P4-25" target="rzk8L9WGFSJnQojBz0P4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-25" value="Se realiza el servicio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="697.9981922104781" y="-1610.9982266773895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rzk8L9WGFSJnQojBz0P4-27" target="rzk8L9WGFSJnQojBz0P4-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-27" value="Se le paga al proveedor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="697.9981922104781" y="-1461.9982266773895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzk8L9WGFSJnQojBz0P4-29" value="Fin del clico" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="717.9981922104781" y="-1291.9982266773895" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
